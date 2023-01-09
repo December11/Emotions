@@ -96,12 +96,12 @@ To be in accordance with CANSPAM we agree to the following:
 If at any time you would like to unsubscribe from receiving future emails, you can email us at
 and we will promptly remove you from ALL correspondence.
 
-Contacting Us
+## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-https://github.com/December11/Emotions/
-Arbat street, 1
-Moscow, Moscow 109542
-Russia
-https://github.com/December11/Emotions/issues
+https://github.com/December11/Emotions/ \
+Arbat street, 1\
+Moscow, Moscow 109542\
+Russia\
+https://github.com/December11/Emotions/issues 
